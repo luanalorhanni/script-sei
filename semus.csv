@@ -1,0 +1,605 @@
+SIGLA,DESCRIÇÃO
+SEMUS,Secretaria Municipal De Saúde
+SEMUS-ASCOM,Assessoria De Comunicação Semus
+SEMUS-ASSEJUR,Assessoria Jurídica Semus
+SEMUS-ASSEJUR-DCC,Divisão De Contratos E Convênios
+SEMUS-ASSEJUR-DMP,Demandas Do Ministério Público
+SEMUS-ASSEJUR-NC,Nucleo De Contratos
+SEMUS-ASSEJUR-NCC,Núcleo De Controle De Contratos
+SEMUS-ASSEJUR-NCM,Núcleo De Contratos E Minutas
+SEMUS-ASSEJUR-NDA,Núcleo De Demandas Administrativas Semus
+SEMUS-ASSEJUR-NDJ,Núcleo De Demandas Judiciais Semus
+SEMUS-ASSEJUR-PROCSERV,Processos De Servidores
+SEMUS-ASSJUR-PROT,Assessoria Juridica - Protocolo
+SEMUS-CMS,Conselho Municipal De Saúde
+SEMUS-GAB,Chefia De Gabinete Semus
+SEMUS-GAB-ASSTEC,Assessoria Técnica Do Gabinete
+SEMUS-GAB-ENGEN,Coordenação De Engenharia E Manutenção Predial
+SEMUS-HCDOAM-GEROC,Semus-Hcdoam-Gerenciamento De Opme E Cac
+SEMUS-LACEM,Laboratório Central Do Município
+SEMUS-LACEM-ASCOM,Assessoria De Comunicação Lacem
+SEMUS-LACEM-ASJUR,Chefe De Assessoria Juridica
+SEMUS-LACEM-ASTEC,Chefe Da Assessoria Técnica
+SEMUS-LACEM-DAHOSP,Diretoria Administrativa Hospitalar Lacem
+SEMUS-LACEM-DAHOSP-ADM,Assistente Administrativo Lacem
+SEMUS-LACEM-DAHOSP-CMP,Coordenação De Material E Patrimônio Lacem
+SEMUS-LACEM-DAHOSP-CMP-ASS,Assistente De Material E Patrimônio
+SEMUS-LACEM-DAHOSP-COFIN,Coordenação De Orçamento Financeiro Lacem
+SEMUS-LACEM-DAHOSP-COMPRAS,Coordenação De Compras Lacem
+SEMUS-LACEM-DAHOSP-CONTRATOS,Coordenação De Convênios E Contratos
+SEMUS-LACEM-DAHOSP-ESTA,Estatística Lacem
+SEMUS-LACEM-DAHOSP-INFO,Coordenação De Informática Lacem
+SEMUS-LACEM-DAHOSP-INFO-TEC,Técnico De Informática Lacem
+SEMUS-LACEM-DAHOSP-RH,Coordenação De Recursos Humanos Lacem
+SEMUS-LACEM-DIREDE,Diretoria Da Rede Lacem
+SEMUS-LACEM-DIREDE-CPCOLETA,Coordenação Dos Postos De Coleta
+SEMUS-LACEM-DIREDE-DIRGERAL,Diretoria Geral Lacem
+SEMUS-LACEM-DIRTEC,Diretoria Técnica Lacem
+SEMUS-LACEM-DIRTEC-AMBIENTAL,Coordenação De Ambiental
+SEMUS-LACEM-DIRTEC-ASS,Assistente Diretor Técnico Lacem
+SEMUS-LACEM-DIRTEC-BIOMED,Coordenação De Biologia Médica
+SEMUS-LACEM-DIRTEC-BIOMOL,Coordenação De Biomol
+SEMUS-LACEM-DIRTEC-CCRTDA,"Central De Coleta, Recebimento, Transporte E Distribuição De Amostras"
+SEMUS-LACEM-DIRTEC-CITOLOGIA,Coordenação De Citologia
+SEMUS-LACEM-DIRTEC-CITOLOGIA-CGTS,Citologistas
+SEMUS-LACEM-DIRTEC-COVIGI,Coordenação De Vigilância Laboratorial Lacem
+SEMUS-LACEM-DIRTEC-COVIGI-ASS,Assitentes Coordenação De Vigilância Lacem
+SEMUS-LACEM-DIRTEC-ENDEMIAS,Coordenação De Endemias E Zoonoses
+SEMUS-LACEM-DIRTEC-IMUHOR,Coordenação De Imunohormônio
+SEMUS-LACEM-DIRTEC-LABAPS,Coordenação De Apoio Laboratorial Da Aps
+SEMUS-LACEM-DIRTEC-MCRBIO,Coordenação De Microbiologia
+SEMUS-LACEM-GAB,Chefia De Gabinete Lacem
+SEMUS-LACEM-OUV,Ouvidoria Lacen
+SEMUS-LACEM-QUALI,Qualidade Lacem
+SEMUS-LACEM-QUALI-ASS,Assistentes Da Qualidade
+SEMUS-NAES,Núcleo De Controle E Execução De Contratos - Naes
+SEMUS-SEADAF,Secretaria Adjunta De Administração E Finanças
+SEMUS-SEADAF-PROT,Protocolo
+SEMUS-SEADAF-SOFIC,"Superintendência Orçamentária, Financeira E Contábil"
+SEMUS-SEADAF-SOFIC-APOIO,"Superintendencia Orçamentária, Financeira E Contábil - Apoio"
+SEMUS-SEADAF-SOFIC-ARQDIG,Arquivo E Digitalização
+SEMUS-SEADAF-SOFIC-CCFMS,Coordenação De Contabilidade E Fundo Municipal De Saúde
+SEMUS-SEADAF-SOFIC-CCFMS-DARPC,"Divisão de Análise, Revisão E Prestação De Contas"
+SEMUS-SEADAF-SOFIC-CCFMS-DCB,Divisão De Conciliação Bancária
+SEMUS-SEADAF-SOFIC-CCFMS-DLO,Divisão De Liquidação E Ordem De Pagamento
+SEMUS-SEADAF-SOFIC-CCFMS-DRPOF,Divisão De Registro Patrimonial Oçamentário E Financeiro
+SEMUS-SEADAF-SOFIC-CEO,Coordenação De Execução Orçamentária
+SEMUS-SEADAF-SOFIC-CEO-DAC,Divisão De Análise E Classificação
+SEMUS-SEADAF-SOFIC-CEO-DEOEMP,Divisão De Execução Orçamentária - Empenho
+SEMUS-SEADAF-SOFIC-CEO-NCPC,Demandas De Prestações De Contas
+SEMUS-SEADAF-SOFIC-CEO-NJ,Núcleo Jurídico
+SEMUS-SEADAF-SOFIC-CEO-NPC,Núcleo De Procedimentos De Contratação
+SEMUS-SEADAF-SOFIC-CEO-NPPC,Núcleo De Procedimentos De Prestação De Contas
+SEMUS-SEADAF-SOFIC-CEO-NPPC-DPC,Núcleo De Convênios E Prestações De Contas
+SEMUS-SEADAF-SOFIC-CEO-REGRES,Divisão De Regularidades E Ressalvas
+SEMUS-SEADAF-SUMAPA,Superintendência De Material E Patrimônio
+SEMUS-SEADAF-SUMAPA-CAP,Coordenação De Almoxarifado E Patrimônio
+SEMUS-SEADAF-SUMAPA-CAP-ADM,Assessoria Administrativa
+SEMUS-SEADAF-SUMAPA-CAP-FARMAB,Farmácia Da Atenção Básica
+SEMUS-SEADAF-SUMAPA-CAP-FARMEM,Farmácia Da Rede Emergencial
+SEMUS-SEADAF-SUMAPA-CAP-INHOS,Insumos Hospitalares Semus
+SEMUS-SEADAF-SUMAPA-CAP-INSOD,Insumos E Medicamentos Odontológicos
+SEMUS-SEADAF-SUMAPA-CAP-NUT,Nutrição E Alimentação Enteral
+SEMUS-SEADAF-SUMAPA-CAP-PAT,Patrimônio
+SEMUS-SEADAF-SUMAPA-CCR-ATA,Processos De Parcela De Ata
+SEMUS-SEADAF-SUMAPA-CCR-COMPRA,Coordenação De Compra E Registro
+SEMUS-SEADAF-SUMAPA-NGC,Núcleo De Gestão De Contratos Semus
+SEMUS-SEADAF-SUMAPA-NGC-PAG,Processo De Pagamento
+SEMUS-SEADAF-SUMAPA-NGC-REG,Processo De Regularização
+SEMUS-SEADAF-SUMAPA-NGC-TRANS,Transição
+SEMUS-SEADAF-SUMAPA-PROT,Superintendencia De Material E Patrimônio - Protocolo
+SEMUS-SEADAF-SUPDAM,Superintendência De Administração
+SEMUS-SEADAF-SUPDAM-APOIO,Apoio Superintendência De Administração
+SEMUS-SEADAF-SUPDAM-CSG,Coordenação De Serviços Gerais Semus
+SEMUS-SEADAF-SUPDAM-NGP,Nucleo De Gestão Processual
+SEMUS-SEADAF-SUPDAM-PROT,Protocolo Geral
+SEMUS-SEADAF-SUPDAM-RH,Coordenação De Pessoal Semus
+SEMUS-SEADAF-SUPDAM-RH-DD,Divisão De Direitos E Deveres
+SEMUS-SEADAF-SUPDAM-RH-FP,Divisão De Folha De Pagamento
+SEMUS-SEADAF-SUPDAM-RH-PROC,Divisão De Processos De Rh
+SEMUS-SEADAF-SUPDAM-TRANS,Divisão De Transporte
+SEMUS-SEADAF-SUPDAM-ZEL,Divisão De Zeladoria
+SEMUS-SEADAS,Secretaria Adjunta De Ações E Serviços De Saúde
+SEMUS-SEADAS-AF,Assistência Farmacêutica
+SEMUS-SEADAS-AF-NGC,Núcleo De Gestão De Contrato Assistencia Farmaceutica
+SEMUS-SEADAS-REDE,Superintendencia De Assistência À Rede
+SEMUS-SEADAS-REDE-AMBFAR,Ambulatorio De Saúde Mental Farina
+SEMUS-SEADAS-REDE-ANIL,Centro De Testagem E Aconselhamento Do Anil
+SEMUS-SEADAS-REDE-APOIOTEC,Superintendencia De Assistência À Rede - Apoio Técnico
+SEMUS-SEADAS-REDE-ASSJUR,Assessoria Juridica Rede
+SEMUS-SEADAS-REDE-CAISI,Centro De Atenção Integral Ao Idoso
+SEMUS-SEADAS-REDE-CAPS1,Centro De Atenção Psicossocial Infantil
+SEMUS-SEADAS-REDE-CAPS2,Centro De Atenção Psicossocial
+SEMUS-SEADAS-REDE-CAPSAD,Centro De Atenção Psicossocial Álcool E Drogas
+SEMUS-SEADAS-REDE-CASPD,Coordenação De Pessoas Com Deficiência
+SEMUS-SEADAS-REDE-CEMFAT,Centro De Saúde Fatima
+SEMUS-SEADAS-REDE-CEMFAT-LAB,Laboratório Cemfatima
+SEMUS-SEADAS-REDE-CEMFAT-NEP,Núcleo De Educação Permanente Cemfatima
+SEMUS-SEADAS-REDE-CEMFATIMA-LAB,Coordenação Médica Da Cirurgia Plástica
+SEMUS-SEADAS-REDE-CEMFP,Cem Filipinho
+SEMUS-SEADAS-REDE-CEMFP-ADM,Direção Administrativa Cemfilipinho
+SEMUS-SEADAS-REDE-CEMFP-ENF,Enfermagem Cemfilipinho
+SEMUS-SEADAS-REDE-CEMFP-FARM,Farmácia Cemfilipinho
+SEMUS-SEADAS-REDE-CEMFP-RH,Coordenação De Rh Cemfilipinho
+SEMUS-SEADAS-REDE-CEMVE,Cem Vila Esperança
+SEMUS-SEADAS-REDE-CEMVE-ADM,Administração Cphnazira
+SEMUS-SEADAS-REDE-CEMVE-FARM,Farmácia Cphnazira
+SEMUS-SEADAS-REDE-CIA,Central Interna De Ambulâncias Rede
+SEMUS-SEADAS-REDE-CMECASA,Coordenção Do Melhor Em Casa
+SEMUS-SEADAS-REDE-COAMB,Coordenação Ambulatorial Rede
+SEMUS-SEADAS-REDE-CODON,Coordenação De Odontologia
+SEMUS-SEADAS-REDE-COENF,Coordenação De Enfermagem Rede
+SEMUS-SEADAS-REDE-COFISIO,Coordenação De Fisioterapia Rede
+SEMUS-SEADAS-REDE-COMED,Coordenação Médica
+SEMUS-SEADAS-REDE-COMENTAL,Coordenação De Saúde Mental
+SEMUS-SEADAS-REDE-CPHNAZIRA,Centro De Parto Humanizado Nazira Assub
+SEMUS-SEADAS-REDE-CRAUE,Coordenação De Remoção E Atendimento De Urgência E Emergência
+SEMUS-SEADAS-REDE-CSPRAMOS,Centro De Saúde Paulo Ramos
+SEMUS-SEADAS-REDE-DJUADM,Demanda Judicial E Administrativa
+SEMUS-SEADAS-REDE-DMSO,Rede Demandas Sociais
+SEMUS-SEADAS-REDE-FAMBIO,Coordenação De Farmácia E Bioquímica Rede
+SEMUS-SEADAS-REDE-HCDOAM,Hospital Da Criança Dr Odorico Amaral De Matos
+SEMUS-SEADAS-REDE-HCDOAM-AGTRA,Agência Transfusional Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-AMB,Ambulatório Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-CAUE,"Central Interna De Ambulâncias, Urgência E Emergência"
+SEMUS-SEADAS-REDE-HCDOAM-CCIR,Centro Cirurgico Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-CEX,Central De Exames Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-CINF,Comissão De Controle De Infecção Hospitalar Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-CME,Central De Material E Esterelização Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-CMED,Coordenação De Médicos Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-CONS,Marcação De Consultas Do Ambulatório Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-CPROL,Unidade De Cuidados Prolongados/ Sínd. Gripal
+SEMUS-SEADAS-REDE-HCDOAM-CTI,Coordenação De Tecnologia Da Informação Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-ENF,Enfermagem E Internação Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-FAM,Farmácia Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-FAT,Faturamento Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-FISIO,Fisioterapia Internação Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-FONO,Fonoaudiologia Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-GDRS,Plano De Gerenciamento De Resíduos De Serviços De Saúde
+SEMUS-SEADAS-REDE-HCDOAM-GER,Gerência De Enfermagem Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-LAB,Laboratório Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-MAN,Manuteção Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-MAP,Material E Patrimônio Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-NEP,Núcleo De Educação Permanente Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-NIR,Núcleo Interno De Regulação Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-NQLD,Núcleo De Acesso E Qualidade Hospitalar Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-NSP,Núcleo De Segurança Do Paciente Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-NUT,Nutrição Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-NVIG,Núcleo De Vigilância Epidemiológica Hospitalar Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-ODO,Odontologia Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-OUV,Ouvidoria Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-POST,Portaria Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-PRONT,Organização De Prontuários
+SEMUS-SEADAS-REDE-HCDOAM-PSICO,Psicologia Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-RADIO,Radiologia Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-RECEP,Recepção Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-RH,Recursos Humanos Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-SAME,Same Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-SEC,Secretaria Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-SS,Serviço Social Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-TEOC,Terapia Ocupacional Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-UNSEN,Unidade Sentinela Em Saúde Do Trabalhador Hcdoam
+SEMUS-SEADAS-REDE-HCDOAM-VERM,Área Vermelha - Médica
+SEMUS-SEADAS-REDE-HMDCM,Hospital Municipal Dr Clementino Moura - Socorrão Ii
+SEMUS-SEADAS-REDE-HMDCM-AEPM,Setor De Atividades Especiais Espaço Mulher
+SEMUS-SEADAS-REDE-HMDCM-AGENDA,Central De Agendamento De Cirurgia
+SEMUS-SEADAS-REDE-HMDCM-AGTRA,Agência Transfusional Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-AJUR,Assessoria Juridica Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-ALAG,Setor Clínica Médica - Ala G
+SEMUS-SEADAS-REDE-HMDCM-ALMX,Almoxarifado Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-AMB,Ambulatorial Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-ANEST,Coordenação Médica Da Anestesia
+SEMUS-SEADAS-REDE-HMDCM-CAEV,Coordenação Accr/Sdm E Eixo Vermelho
+SEMUS-SEADAS-REDE-HMDCM-CATR,Coordenação Médica Da Agência Transfusional Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-CBM,Coordenação Médica Buco Maxilo
+SEMUS-SEADAS-REDE-HMDCM-CCIH,Comissão De Controle De Infecção Hospitalar Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-CCIR,Clínica Cirúrgica
+SEMUS-SEADAS-REDE-HMDCM-CLORTO,Setor Clínica Ortopédica - Ala C E D
+SEMUS-SEADAS-REDE-HMDCM-CMCCIR,Coordenação Médico Da Clínica Cirurgica
+SEMUS-SEADAS-REDE-HMDCM-CMCMED,Coordenação Médica Da Clínica Médica
+SEMUS-SEADAS-REDE-HMDCM-CMEND,Coordenação Médica Da Endoscopia
+SEMUS-SEADAS-REDE-HMDCM-CMME,Coordenação Central De Material E Esterilização Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-CMODON,Coordenação Odontologia Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-CMORT,Coordenação Médica Da Ortopedia
+SEMUS-SEADAS-REDE-HMDCM-CMPS,Coordenação Médica Do Pronto Socorro Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-CMULT,Coordenação Médica Do Ultrassom
+SEMUS-SEADAS-REDE-HMDCM-CMURO,Coordenação Médica Da Urologia
+SEMUS-SEADAS-REDE-HMDCM-CMUTIA,Coordenação Médica Da Uti A
+SEMUS-SEADAS-REDE-HMDCM-CMUTIB,Coordenação Médica Da Uti B/C
+SEMUS-SEADAS-REDE-HMDCM-COALAA,Clínica Ortopédica - Ala A
+SEMUS-SEADAS-REDE-HMDCM-COALAE,Setor Clínica Ortopédica - Ala E
+SEMUS-SEADAS-REDE-HMDCM-COALAJ,Clínica Ortopédica - Ala J
+SEMUS-SEADAS-REDE-HMDCM-CPAR,Coordenação Parecer E Autorização De Exames
+SEMUS-SEADAS-REDE-HMDCM-CPAT,Coordenação Patrimônio Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-CPOR,Coordenação Portaria Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-CPSI,Coordenação De Psicologia Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-CTI,Coordenação Da Tecnologia Da Informação Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-ENF,Coordenação De Enfermagem Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-FARM,Setor De Farmacia Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-FAT,Faturamento Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-FISIO,Coordenação Fisioterapia Enfermaria Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-FONO,Coordenação Fonoaudiologia Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-FUTI,Coordenação Fisioterapia Uti Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-GAB,Gabinete Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-GERES,Gerenciamento De Resíduos Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-HOT,Coordenação De Hotelaria Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-IDOA,Comissão Intra-Hospitalar De Doação De Órgãos E Tecidos Para Transplante
+SEMUS-SEADAS-REDE-HMDCM-IMG,Setor De Imagem Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-LAB,Coordenação Laboratório Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-MAN,Coordenação Manutenção Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-MAQ,Coordenação Maqueiros Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-MOT,Coordenação Motoristas Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-NCENF,Núcleo De Capacitação De Enfermagem Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-NEP,Núcleo Educação Permanente Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-NIR,Setor Núcleo Interno De Regulação Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-NQLD,Núcleo De Acesso E Qualidade Hospitalar Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-NSP,Coordenação Núcleo De Segurança Do Paciente Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-NTEOC,Núcleo De Terapia Ocupacional Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-NUT,Setor De Nutrição Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-OUV,Ouvidoria Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-PELE,Equipe De Cuidados Com A Pele Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-RH,Setor De Recursos Humanos Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-ROUPA,Coordenação Lavanderia E Rouparia Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-SAME,Serviço De Arquivo Médico
+SEMUS-SEADAS-REDE-HMDCM-SCIR,Setor Centro Cirúrgico Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-SS,Serviço Social Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-UCP,Setor Unidade De Curta Permanência
+SEMUS-SEADAS-REDE-HMDCM-UNSEN,Unidade Sentinela Saude Do Trabalhador Hmdcm
+SEMUS-SEADAS-REDE-HMDCM-UTI,Setor Unidade De Terapia Intensiva - Ala F
+SEMUS-SEADAS-REDE-HMDCM-VIGIH,Núcleo De Vigilância Epidemiológica Hospitalar Hmdcm
+SEMUS-SEADAS-REDE-HMULHER,Hospital Da Mulher
+SEMUS-SEADAS-REDE-HMULHER-ADM,Admissão Hmulher
+SEMUS-SEADAS-REDE-HMULHER-ALAA,Ala A Hmulher
+SEMUS-SEADAS-REDE-HMULHER-ALAB,Ala B Hmulher
+SEMUS-SEADAS-REDE-HMULHER-ALAC,Ala C Humlher
+SEMUS-SEADAS-REDE-HMULHER-AMB,Ambulatorio
+SEMUS-SEADAS-REDE-HMULHER-ARQ,Recepção Arquivos
+SEMUS-SEADAS-REDE-HMULHER-AT,Agencia Transfuncional
+SEMUS-SEADAS-REDE-HMULHER-CCIH,Comissão De Controle De Infecção Hospitalar
+SEMUS-SEADAS-REDE-HMULHER-CCIR,Centro Cirurgico Hmulher
+SEMUS-SEADAS-REDE-HMULHER-CDA,Coordenação Administrativa Hmulher
+SEMUS-SEADAS-REDE-HMULHER-CHOT,Coordenação De Hotelaria
+SEMUS-SEADAS-REDE-HMULHER-CME,Central De Material Estéril
+SEMUS-SEADAS-REDE-HMULHER-CONS,Marcação De Consulta Hmulher
+SEMUS-SEADAS-REDE-HMULHER-DA,Direção Administrativa
+SEMUS-SEADAS-REDE-HMULHER-DC,Direção Clínica
+SEMUS-SEADAS-REDE-HMULHER-DIAG,Diagnostico Hmulher
+SEMUS-SEADAS-REDE-HMULHER-EM,Equipe Multi
+SEMUS-SEADAS-REDE-HMULHER-FARM,Farmacia Hmulher
+SEMUS-SEADAS-REDE-HMULHER-FAT,Faturamento Hmulher
+SEMUS-SEADAS-REDE-HMULHER-FIST,Fisioterapia Hmulher
+SEMUS-SEADAS-REDE-HMULHER-GENF,Gerencia De Enfermagem Hmulher
+SEMUS-SEADAS-REDE-HMULHER-GM,Gestor De Maqueiros
+SEMUS-SEADAS-REDE-HMULHER-GRIS,Gerenciamento De Risco
+SEMUS-SEADAS-REDE-HMULHER-IMG,Imagem
+SEMUS-SEADAS-REDE-HMULHER-LAB,Laboratório Hmulher
+SEMUS-SEADAS-REDE-HMULHER-MAN,Manutenção Hmulher
+SEMUS-SEADAS-REDE-HMULHER-NC,Núcleo E Comissões Hmulher
+SEMUS-SEADAS-REDE-HMULHER-NEP,Núcleo De Educação Permanente Hmulher
+SEMUS-SEADAS-REDE-HMULHER-NESP,Núcleo De Segurança Ao Paciente
+SEMUS-SEADAS-REDE-HMULHER-NIR,Núcleo Interno De Regulação Hmulher
+SEMUS-SEADAS-REDE-HMULHER-NUT,Nutrição Hmulher
+SEMUS-SEADAS-REDE-HMULHER-NVEH,Núcleo De Vigilância Epidemiológica Hospitalar Hmulher
+SEMUS-SEADAS-REDE-HMULHER-OUV,Ouvidoria Hmulher
+SEMUS-SEADAS-REDE-HMULHER-PORT,Recepção/Portaria
+SEMUS-SEADAS-REDE-HMULHER-QLD,Qualidade Hmulher
+SEMUS-SEADAS-REDE-HMULHER-RH,Recursos Humanos Hmulher
+SEMUS-SEADAS-REDE-HMULHER-ROUP,Rouparia Hmulher
+SEMUS-SEADAS-REDE-HMULHER-SOCI,Serviço Social Hmulher
+SEMUS-SEADAS-REDE-HMULHER-UTI,Unidade De Tratamento Intensivo
+SEMUS-SEADAS-REDE-LIRA,Centro De Testagem E Aconselhamento Do Lira
+SEMUS-SEADAS-REDE-MATMED,Material Médico Hospitalar Rede
+SEMUS-SEADAS-REDE-MED,Medicamentos Rede
+SEMUS-SEADAS-REDE-NUTRICAO,Coordenação De Nutrição Rede
+SEMUS-SEADAS-REDE-OUVIDORIA,Ouvidora Da Rede
+SEMUS-SEADAS-REDE-PROT,Protocolo Rede
+SEMUS-SEADAS-REDE-PSANIL,Pronto Socorro Psanil
+SEMUS-SEADAS-REDE-PSANIL-ACAS,Coordenação De Assistência Social Psanil
+SEMUS-SEADAS-REDE-PSANIL-ADM,Administrativo Psanil
+SEMUS-SEADAS-REDE-PSANIL-AMB,Ambulatório
+SEMUS-SEADAS-REDE-PSANIL-CCIH,Comissão De Controle De Infecção Hospitalar Psanil
+SEMUS-SEADAS-REDE-PSANIL-CENF,Coordenação De Enfermagem Psanil
+SEMUS-SEADAS-REDE-PSANIL-FARM,Coordenação De Farmácia Psanil
+SEMUS-SEADAS-REDE-PSANIL-NEP,Núcleo De Educação Permanente Psanil
+SEMUS-SEADAS-REDE-PSANIL-NQLD,Núcleo De Acesso E Qualidade Hospitalar Psanil
+SEMUS-SEADAS-REDE-PSANIL-NVIGI,Núcleo De Vigilância Epidemiológica Hospitalar Psanil
+SEMUS-SEADAS-REDE-PSANIL-RH,Coordenação De Rh Psanil
+SEMUS-SEADAS-REDE-PSANIL-VAC,Vacina Psanil
+SEMUS-SEADAS-REDE-REST1,Residência Terapêutica I Rede
+SEMUS-SEADAS-REDE-REST2,Residência Terapêutica Ii Rede
+SEMUS-SEADAS-REDE-REST3,Residência Terapêutica Iii Rede
+SEMUS-SEADAS-REDE-REST4,Residência Terapêutica Iv Rede
+SEMUS-SEADAS-REDE-RH,Recursos Humanos Da Rede
+SEMUS-SEADAS-REDE-SAGE,Sala De Apoio A Gestão Da Rede
+SEMUS-SEADAS-REDE-SAGE-AMB,Rede-Qualidade Planejamento E Organização Do Sistema Ambulatorial
+SEMUS-SEADAS-REDE-SAGE-HOS,Rede-Qualidade Planejamento E Organização Do Sistema De Hospitalar
+SEMUS-SEADAS-REDE-SAGE-INFO,Rede-Qualidade Planejamento E Organização Do Sistema De Informação
+SEMUS-SEADAS-REDE-SAMU,Samu
+SEMUS-SEADAS-REDE-SAMU-ADM,Coordenação Administrativa - Saúde Já Apae
+SEMUS-SEADAS-REDE-SAMU-APAEFAT,Coordenação De Faturamento
+SEMUS-SEADAS-REDE-SAMU-ENF,Coordenação Administrativa - Enfermagem
+SEMUS-SEADAS-REDE-SAMU-ESTA,Estatística Samu
+SEMUS-SEADAS-REDE-SAMU-LOGS,Logística Samu
+SEMUS-SEADAS-REDE-SAMU-NAU,Neu Samu
+SEMUS-SEADAS-REDE-SAMU-OPFRT,Operação De Frota Samu
+SEMUS-SEADAS-REDE-SAMU-REG,Regulação Médica Samu
+SEMUS-SEADAS-REDE-SAMU-RH,Coordenação Administrativa - Rh
+SEMUS-SEADAS-REDE-SAMU-SECEXEC,Secretaria Executiva
+SEMUS-SEADAS-REDE-SAMU-SG,Serviços Gerais Samu
+SEMUS-SEADAS-REDE-SAMU-SJ,Saúde Já - Apae
+SEMUS-SEADAS-REDE-SJIB,Saúde Já - Itaqui Bacanga
+SEMUS-SEADAS-REDE-SJIB-ASS,Assessoria Técnica Das Unidades
+SEMUS-SEADAS-REDE-UCOROA,Unidade Mista Coroadinho
+SEMUS-SEADAS-REDE-UCOROA-CA,Coordenação De Ambulatório Umcoroadinho
+SEMUS-SEADAS-REDE-UCOROA-CENF,Coordenação De Enfermagem Umcoroadinho
+SEMUS-SEADAS-REDE-UCOROA-CFARM,Central De Abastecimento Farmacêutico Umcoroadinho
+SEMUS-SEADAS-REDE-UCOROA-CIH,Comissão De Controle De Infecção Hospitalar Umcoroadinho
+SEMUS-SEADAS-REDE-UCOROA-CMC,Central De Marcação De Consultas Umcoroadinho
+SEMUS-SEADAS-REDE-UCOROA-DC,Direção Clínica Umcoroadinho
+SEMUS-SEADAS-REDE-UCOROA-FAT,Faturamento Umcoroadinho
+SEMUS-SEADAS-REDE-UCOROA-FHOS,Farmácia Hospitalar Umcoroadinho
+SEMUS-SEADAS-REDE-UCOROA-FISIO,Fisioterapia Umcoroadinho
+SEMUS-SEADAS-REDE-UCOROA-LAB,Laboratório Umcoroadinho
+SEMUS-SEADAS-REDE-UCOROA-MAN,Manutenção Umcoroadinho
+SEMUS-SEADAS-REDE-UCOROA-NEP,Núcleo De Educação Permanente Umcoroadinho
+SEMUS-SEADAS-REDE-UCOROA-NIR,Núcleo Interno De Regulação Umcoroadinho
+SEMUS-SEADAS-REDE-UCOROA-NQLD,Núcleo De Acesso E Qualidade Hospitalar Umcoroadinho
+SEMUS-SEADAS-REDE-UCOROA-NSP,Núcleo De Segurança Do Paciente Umcoroadinho
+SEMUS-SEADAS-REDE-UCOROA-NUT,Nutrição Umcoroadinho
+SEMUS-SEADAS-REDE-UCOROA-NVIG,Núcleo De Vigilância Epidemiológica Hospitalar Umcoroadinho
+SEMUS-SEADAS-REDE-UCOROA-RH,Coordenação De Rh Umcoroadinho
+SEMUS-SEADAS-REDE-UCOROA-SS,Serviço Social Umcoroadinho
+SEMUS-SEADAS-REDE-UMBEQ,Unidade Mista Bequimão
+SEMUS-SEADAS-REDE-UMBEQ-AMB,Ambulatório Umbequimão
+SEMUS-SEADAS-REDE-UMBEQ-CENF,Enfermagem Umbequimão
+SEMUS-SEADAS-REDE-UMBEQ-CIH,Comissão De Controle De Infecção Hospitalar Umbequimao
+SEMUS-SEADAS-REDE-UMBEQ-CMC,Central De Marcação De Exames E Transporte Umbequimão
+SEMUS-SEADAS-REDE-UMBEQ-CMED,Clinica Medica Umbequimão
+SEMUS-SEADAS-REDE-UMBEQ-FARM,Farmácia Umbequimão
+SEMUS-SEADAS-REDE-UMBEQ-FAT,Faturamento Umbequimão
+SEMUS-SEADAS-REDE-UMBEQ-FISIO,Fisioterapia Umbequimao
+SEMUS-SEADAS-REDE-UMBEQ-IMUNI,Imunização Umbequimao
+SEMUS-SEADAS-REDE-UMBEQ-LAB,Laboratório Umbequimão
+SEMUS-SEADAS-REDE-UMBEQ-NEP,Núcleo De Educação Permanente Umbequimão
+SEMUS-SEADAS-REDE-UMBEQ-NIR,Núcleo Interno De Regulação Umbequimão
+SEMUS-SEADAS-REDE-UMBEQ-NQLD,Núcleo De Qualidade Umbequimão
+SEMUS-SEADAS-REDE-UMBEQ-NSP,Núcleo De Segurança Do Paciente Umbequimão
+SEMUS-SEADAS-REDE-UMBEQ-NST,Núcleo Saúde Do Trabalhador Umbequimão
+SEMUS-SEADAS-REDE-UMBEQ-NUT,Nutrição Umbequimão
+SEMUS-SEADAS-REDE-UMBEQ-NVIG,Núcleo De Vigilância Epidemiológica Umbequimão
+SEMUS-SEADAS-REDE-UMBEQ-RH,Recursos Humanos Umbequimão
+SEMUS-SEADAS-REDE-UMBEQ-ROUPA,Rouparia Umbequimao
+SEMUS-SEADAS-REDE-UMBEQ-SD,Serviços Diversos Umbequimão
+SEMUS-SEADAS-REDE-UMBEQ-SS,Serviço Social Umbequimão
+SEMUS-SEADAS-REDE-UMITBCA,Unidade Mista Itaqui-Bacanga
+SEMUS-SEADAS-REDE-UMITBCA-CENF,Coordenação De Enfermagem Umibacanga
+SEMUS-SEADAS-REDE-UMITBCA-CMC,Central De Marcação De Consultas Umibacanga
+SEMUS-SEADAS-REDE-UMITBCA-FARM,Farmácia Hospitalar Umibacanga
+SEMUS-SEADAS-REDE-UMITBCA-FAT,Faturamento Umibacanga
+SEMUS-SEADAS-REDE-UMITBCA-INH,Internação Hospitalar Umibacanga
+SEMUS-SEADAS-REDE-UMITBCA-LAB,Laboratório Umibacanga
+SEMUS-SEADAS-REDE-UMITBCA-NEP,Núcleo De Educação Permanente Umibacanga
+SEMUS-SEADAS-REDE-UMITBCA-NIR,Núcleo Interno De Regulação Umibacanga
+SEMUS-SEADAS-REDE-UMITBCA-NVIG,Núcleo De Vigilância Epidemiológica Hospitalar Umibacanga
+SEMUS-SEADAS-REDE-UMITBCA-RH,Recursos Humanos Umibacanga
+SEMUS-SEADAS-REDE-UMITBCA-SS,Serviço Social Umibacanga
+SEMUS-SEADAS-REDE-UMITBCA-TRNS,Transporte Umibacanga
+SEMUS-SEADAS-REDE-UMITBCA-VAC,Vacina Umibacanga
+SEMUS-SEADAS-REDE-UMSBERN,Unidade Mista São Bernardo
+SEMUS-SEADAS-REDE-UMSBERN,Upa Zona Rural
+SEMUS-SEADAS-REDE-UMSBERN-AMB,Ambulatório Umsbernardo
+SEMUS-SEADAS-REDE-UMSBERN-CA,Coordenação De Almoxarifado
+SEMUS-SEADAS-REDE-UMSBERN-CADM,Coordenação De Administração
+SEMUS-SEADAS-REDE-UMSBERN-CCIH,Coordenação Controle De Infecção Hospitalar Upazr
+SEMUS-SEADAS-REDE-UMSBERN-CE,Coordenação De Enfermagem Upazr
+SEMUS-SEADAS-REDE-UMSBERN-CENF,Enfermagem Umsbernardo
+SEMUS-SEADAS-REDE-UMSBERN-CM,Coordenação De Clinica Medica Upazr
+SEMUS-SEADAS-REDE-UMSBERN-FARM,Farmácia Umsbernardo
+SEMUS-SEADAS-REDE-UMSBERN-FARM,Coordenação De Farmácia Upazr
+SEMUS-SEADAS-REDE-UMSBERN-FIST,Coordenação De Fisioterapia Upazr
+SEMUS-SEADAS-REDE-UMSBERN-LAB,Laboratório/Posto De Coleta Umsbernardo
+SEMUS-SEADAS-REDE-UMSBERN-LAB,Coordenação De Laboratorio Upazr
+SEMUS-SEADAS-REDE-UMSBERN-NEP,Núcleo De Educação Permanente Umsbernardo
+SEMUS-SEADAS-REDE-UMSBERN-NHEM,Núcleo De Hemotransfusão
+SEMUS-SEADAS-REDE-UMSBERN-NIR,Núcleo Interno De Regulação Umsbernardo
+SEMUS-SEADAS-REDE-UMSBERN-NQLD,Núcleo De Acesso E Qualidade Hospitalar
+SEMUS-SEADAS-REDE-UMSBERN-NSP,Núcleo De Segurança Do Paciente
+SEMUS-SEADAS-REDE-UMSBERN-NUT,Coordenação De Nutrição Upazr
+SEMUS-SEADAS-REDE-UMSBERN-NVES,Núcleo De Vigilância Epidemiologia - Vigilância Sanitária Upazr
+SEMUS-SEADAS-REDE-UMSBERN-NVIG,Núcleo De Vigilância Epidemiológica Hospitalar Umsbernardo
+SEMUS-SEADAS-REDE-UMSBERN-RH,Recursos Humanos Umsbernardo
+SEMUS-SEADAS-REDE-UMSBERN-RH,Coordenação De Pessoal
+SEMUS-SEADAS-REDE-UMSBERN-SCI,Serviço De Controle De Infecção Hospitalar Umsbernardo
+SEMUS-SEADAS-REDE-UMSBERN-SEC,Secretaria Umsbernardo
+SEMUS-SEADAS-REDE-UMSBERN-SS,Serviço Social Upazr
+SEMUS-SEADAS-REDE-UNSAOF,Unidade São Francisco
+SEMUS-SEADAS-REDE-UNSAOF-ADM,Direção Administrativa Usaofrancisco
+SEMUS-SEADAS-REDE-UNSAOF-CENF,Coordenação De Enfermagem Usaofrancisco
+SEMUS-SEADAS-REDE-UNSAOF-FARM,Farmácia Hospitalar
+SEMUS-SEADAS-REDE-UNSAOF-FAT,Faturamento
+SEMUS-SEADAS-REDE-UNSAOF-NEP,Núcleo De Ensino Permanente Usaofrancisco
+SEMUS-SEADAS-REDE-UNSAOF-NQLD,Núcleo De Acesso A Qualidade Hospitalar
+SEMUS-SEADAS-REDE-UNSAOF-NVIG,Núcleo De Vigilância Epidemiológica Hospitalar Usaofrancisco
+SEMUS-SEADAS-REDE-UNSAOF-RH,Recursos Humanos Usaofrancisco
+SEMUS-SEADAS-REDE-UPACOHAT,Upa Cohatrac
+SEMUS-SEADAS-SAS,Superintendência De Ações De Saúde
+SEMUS-SEADAS-SAS-CACS,Coordenação De Ações Comunitárias De Saúde
+SEMUS-SEADAS-SAS-CAHD,Centro De Atendimento À Hipertensos E Diabéticos
+SEMUS-SEADAS-SAS-CAMCA,"Coordenação De Atenção À Saúde Da Mulher, Criança E Adolescente"
+SEMUS-SEADAS-SAS-CAN,Coordenação De Alimentação E Nutrição Sas
+SEMUS-SEADAS-SAS-CEMULTI,Coordenação E-Multi
+SEMUS-SEADAS-SAS-CENF,Coordenação De Enfermagem Sas
+SEMUS-SEADAS-SAS-CEOALEMANHA,Centro De Especialidades Odontológicas Alemanha
+SEMUS-SEADAS-SAS-CEOFILIPINHO,Centro De Especialidades Odontológicas Filipinho
+SEMUS-SEADAS-SAS-CEOVESPERANCA,Centro De Especialidades Odontológicas Vila Esperança
+SEMUS-SEADAS-SAS-CFCENTRO,Clinica Da Família Centro
+SEMUS-SEADAS-SAS-CFMORADA,Clínica Da Família Morada Do Sol
+SEMUS-SEADAS-SAS-CMED,Coordenação De Medicina
+SEMUS-SEADAS-SAS-CNESAPS,Serviço Cnes - Atenção Primária A Saúde
+SEMUS-SEADAS-SAS-CRUA,Consultório Na Rua
+SEMUS-SEADAS-SAS-CSAI,Coordenação Saúde Adulto E Idoso
+SEMUS-SEADAS-SAS-CSAMAR,Centro De Saúde Amar
+SEMUS-SEADAS-SAS-CSBMATOS,Centro De Saúde Ver Batista Matos / Alemanha
+SEMUS-SEADAS-SAS-CSBMENESES,Centro De Saúde Bezerra De Meneses
+SEMUS-SEADAS-SAS-CSBUCAL,Coordenação De Saúde Bucal
+SEMUS-SEADAS-SAS-CSCLODOMIR,Centro De Saúde Clodomir Pinheiro Costa
+SEMUS-SEADAS-SAS-CSCO,Coordenação De Saúde Comunitária
+SEMUS-SEADAS-SAS-CSCOHABANIL,Centro De Saúde Cohab Anil
+SEMUS-SEADAS-SAS-CSDIVINEIA,Centro De Saúde Divinéia
+SEMUS-SEADAS-SAS-CSDJMARQUES,Centro De Saúde Djalma Marques
+SEMUS-SEADAS-SAS-CSEMARTINS,Centro De Saúde Dra Valdecy Eleotéria Martins/ Alto Paraíso
+SEMUS-SEADAS-SAS-CSEMBRIAO,Centro De Saúde Vila Bacanga - Embrião
+SEMUS-SEADAS-SAS-CSFABICIANA,Centro De Saúde Fabiciana De Moraes
+SEMUS-SEADAS-SAS-CSFCORREA,Centro De Saúde Dr José Ribamar Frazão Corrêa/ N República
+SEMUS-SEADAS-SAS-CSGAPARA,Centro De Saúde Gapara
+SEMUS-SEADAS-SAS-CSGRAMOS,Centro De Saúde Genésio Ramos Filho
+SEMUS-SEADAS-SAS-CSGUANARE,Centro De Saúde Dr. Antônio Guanaré
+SEMUS-SEADAS-SAS-CSITAPERA,Centro De Saúde Itapera
+SEMUS-SEADAS-SAS-CSJANAINA,Centro De Saúde Janaína
+SEMUS-SEADAS-SAS-CSJDEUS,Centro De Saúde João De Deus
+SEMUS-SEADAS-SAS-CSJPAULO,Centro De Saúde Do João Paulo
+SEMUS-SEADAS-SAS-CSLAURA,Centro De Saúde Laura Vasconcelos/ Estiva
+SEMUS-SEADAS-SAS-CSLIBERDADE,Centro De Saúde Da Liberdade
+SEMUS-SEADAS-SAS-CSMACIEIRA,Centro De Saúde Dr José Carlos Macieira
+SEMUS-SEADAS-SAS-CSMARACANA,Centro De Saúde Maracanã
+SEMUS-SEADAS-SAS-CSMLRODRIGUES,Centro De Saúde Maria De Lourdes Rodrigues/ Rio Grande
+SEMUS-SEADAS-SAS-CSNNEIVA,Centro De Saúde Nazaré Neiva
+SEMUS-SEADAS-SAS-CSPEDRINHAS1,Centro De Saúde Pedrinhas I
+SEMUS-SEADAS-SAS-CSPEDRINHAS2,Centro De Saúde Pedrinhas Ii
+SEMUS-SEADAS-SAS-CSQPOTE,Centro De Saúde Quebra Pote
+SEMUS-SEADAS-SAS-CSRADIONAL,Centro De Saúdo Do Radional
+SEMUS-SEADAS-SAS-CSSCRISTOVAO,Centro De Saúde São Cristóvão
+SEMUS-SEADAS-SAS-CSSFIQUENE,Centro De Saúde Salomão Fiquene
+SEMUS-SEADAS-SAS-CSSFRANCISCO,Centro De Saúde São Francisco
+SEMUS-SEADAS-SAS-CSSRAIMUNDO,Centro De Saúde São Raimundo/ Itaqui Bacanga
+SEMUS-SEADAS-SAS-CSSTBARBARA,Centro De Saúde Santa Bárbara
+SEMUS-SEADAS-SAS-CSTHALLES,Centro De Saúde Thalles Ribeiro Gonçalves
+SEMUS-SEADAS-SAS-CSTIBIRI,Centro De Saúde Do Tibiri
+SEMUS-SEADAS-SAS-CSTURU,Centro De Saúde Do Turu
+SEMUS-SEADAS-SAS-CSVEMBRATEL,Centro De Saúde Vila Embratel
+SEMUS-SEADAS-SAS-CSVITAMAR,Centro De Saúde Vila Itamar
+SEMUS-SEADAS-SAS-CSVLOBAO,Centro De Saúde Vila Lobão
+SEMUS-SEADAS-SAS-CSVNOVA,Centro De Saúde Vila Nova
+SEMUS-SEADAS-SAS-CSYVES,Centro De Saúde Yves Parga/ Vila Maranhão
+SEMUS-SEADAS-SAS-FARMACIA,Coordenação De Farmácia E Bioquímica
+SEMUS-SEADAS-SAS-FARMACIA,Farmácia De Medicamentos Estratégicos
+SEMUS-SEADAS-SAS-LOG,Serviço De Logística Sas E Almoxarifado
+SEMUS-SEADAS-SAS-MED,Medicamentos Sas
+SEMUS-SEADAS-SAS-MMH,Material Médico-Hospitalar Sas
+SEMUS-SEADAS-SAS-NAS,Núcleo De Aquisições E Serviços
+SEMUS-SEADAS-SAS-NEP,Núcleo De Educação Permanente Semus
+SEMUS-SEADAS-SAS-NGP,Núcleo De Gestão De Pessoas Sas
+SEMUS-SEADAS-SAS-OUV,Serviço De Ouvidoria
+SEMUS-SEADAS-SAS-PROT,Sas Protocolo
+SEMUS-SEADAS-SAS-PSBARRETO,Posto De Saúde Do Barreto
+SEMUS-SEADAS-SAS-PSCOQUILHO,Posto De Saúde Do Coquilho
+SEMUS-SEADAS-SAS-PSE,Coordenação Pse
+SEMUS-SEADAS-SAS-PSFATIMA,Posto De Saúde Fátima
+SEMUS-SEADAS-SAS-PSIPASE,Posto De Saúde Do Ipase
+SEMUS-SEADAS-SAS-SAGE,Coordenação Sistema De Informação Sage
+SEMUS-SEADAS-SAS-SESMT,Serviço Especializado Engenharia De Segurança E Medicina Do Trabalho
+SEMUS-SEADAS-SAS-SPAAS,Sas - Nucleo De Planejamento Aps
+SEMUS-SEADAS-SAS-SSM,Serviço De Saúde Mental
+SEMUS-SEADAS-SAS-STEFIGENIA,Usf Santa Efigênia
+SEMUS-SEADAS-SAS-UBS,Unidade Básicas De Saúde/ Centros De Referência
+SEMUS-SEADAS-SAS-UBSCINTRA,Ubs Cintra
+SEMUS-SEADAS-SAS-UBSEAMELO,Ubs Dr Expedito Alves De Melo
+SEMUS-SEADAS-SAS-USFCOQUEIRO,Usf Coqueiro
+SEMUS-SEADAS-SAS-USFJSC,Usf Jardim São Cristóvão
+SEMUS-SEADAS-SAS-USFOLIMP1,Usf Antonio Carlos S Reis/ Cid Olímpica I
+SEMUS-SEADAS-SAS-USFOLIMP2,Usf Maria Ayrecilla Novochdlo / Cid Olímpica Ii
+SEMUS-SEADAS-SAS-USFOLIMP3,Usf Jailson Alves Viana/ Cid Olímpica Iii
+SEMUS-SEADAS-SAS-USFPIRAPORA,Usf Pirapora
+SEMUS-SEADAS-SAS-USFSTCLARA,Usf Santa Clara
+SEMUS-SEADAS-SAS-USFVLSARNEY,Usf Vila Sarney
+SEMUS-SEADAS-SCRAA,"Superintendência De Controle, Regulação, Avaliação E Auditoria"
+SEMUS-SEADAS-SCRAA-AUDI,Coordenação De Auditoria
+SEMUS-SEADAS-SCRAA-AUDI-DAFA,Divisão De Auditoria Fiscal E Atesto
+SEMUS-SEADAS-SCRAA-CNES,Coordenação Cadastro Nacional De Estabelecimentos De Saúde
+SEMUS-SEADAS-SCRAA-CPAV,Coordenação De Programação E Avaliação
+SEMUS-SEADAS-SCRAA-CREG,Complexo Regulador
+SEMUS-SEADAS-SCRAA-CREG-SIASUS,Coordenação De Análise E Informação Siasus
+SEMUS-SEADAS-SCRAA-CREG-SLZ,Regulação São Luís
+SEMUS-SEADAS-SCRAA-CREG-SLZ-CP,Cumprimento De Providências
+SEMUS-SEADAS-SCRAA-CREG-SLZ-RD,Regulação De Diálise
+SEMUS-SEADAS-SCRAA-CREG-TFD,Regulação Tratamento Fora De Domicílio
+SEMUS-SEADAS-SCRAA-DAMB,Divisão Ambulatorial
+SEMUS-SEADAS-SCRAA-DHOS,Divisão Hospitalar Semus
+SEMUS-SEADAS-SCRAA-GAB-AJUR,Assessoria Jurídica Do Gabinete Da Scraa
+SEMUS-SEADAS-SCRAA-GAB-AJUR-RL,Regulação De Leitos
+SEMUS-SEADAS-SCRAA-GAB-CNESPRV,Cnes Setor Privado
+SEMUS-SEADAS-SCRAA-GAB-CNESPUB,Cnes Setor Público
+SEMUS-SEADAS-SCRAA-GAB-PROGAMB,Divisão De Progrmação Ambulatorial
+SEMUS-SEADAS-SCRAA-GAB-PROGHOS,Divisão De Progrmação Hospitalar
+SEMUS-SEADAS-SCRAA-OUVI,Ouvidoria Semus
+SEMUS-SEADAS-SCRAA-PROT,Protocolo Scraa Semus
+SEMUS-SEADAS-SCRAA-RH,Recursos Humanos Semus
+SEMUS-SEADAS-SES,Superintendência De Educação Em Saúde
+SEMUS-SEADAS-SES-APOIO,Apoio- Ses
+SEMUS-SEADAS-SES-CCES,Coordenação De Comunicação E Educação Em Saúde
+SEMUS-SEADAS-SES-CDRH,Coordenação De Desenvolvimento De Recursos Humanos
+SEMUS-SEADAS-SES-CRM,Coordenação De Residência Médica
+SEMUS-SEADAS-SES-ETSUS,Coordenação Da Escola Técnica Municipal Do Sus
+SEMUS-SEADAS-SIS,Superintendência De Informação Da Saúde
+SEMUS-SEADAS-SIS-CBD,Coordenação De Banco De Dados
+SEMUS-SEADAS-SIS-CBD-DIV,Divisão De Banco De Dados
+SEMUS-SEADAS-SIS-CPD-CENTRAL,Central De Processamento De Dados
+SEMUS-SEADAS-SIS-CREDE-CADM,Coordenação De Administração De Rede
+SEMUS-SEADAS-SIS-CREDE-RS,Divisão De Rede E Suporte
+SEMUS-SEADAS-SIS-CSIS-DOM,Divisão De Organização E Método
+SEMUS-SEADAS-SIS-CSIS-PROG,Divisão De Programação
+SEMUS-SEADAS-SPAAS,Superintendência De Programação E Avaliação Das Ações De Saúde
+SEMUS-SEADAS-SVES,Superintendencia De Vigilância Epidemiológica E Sanitária
+SEMUS-SEADAS-SVES-AJUR,Assessoria Jurídica Da Sves
+SEMUS-SEADAS-SVES-CEREST,Centro De Referência Em Saúde Do Trabalhador
+SEMUS-SEADAS-SVES-CIEVS,Centro De Informações Estratégicas Em Vigilância Em Saúde
+SEMUS-SEADAS-SVES-CVS,Coordenação De Vigilância Sanitária
+SEMUS-SEADAS-SVES-CVS-CIST,Coordenação Ist/ Aids E Hepatites Virais
+SEMUS-SEADAS-SVES-CVS-COVIAMB,Coordenação Em Vigilância Ambiental
+SEMUS-SEADAS-SVES-CVS-CZO,Coordenação De Controle De Zoonoses
+SEMUS-SEADAS-SVES-CVS-CZO-DRAI,Divisão De Controle De Raiva
+SEMUS-SEADAS-SVES-CVS-CZO-DROE,Divisão De Controle De Roedores
+SEMUS-SEADAS-SVES-CVS-CZO-DVET,Divisão De Controle De Vetores
+SEMUS-SEADAS-SVES-CVS-CZO-LAB,Divisão De Laboratório
+SEMUS-SEADAS-SVES-CVS-DAEP,Divisão De Ações Educativas E Educação Permanente
+SEMUS-SEADAS-SVES-CVS-DALI,Divisão De Alimentos
+SEMUS-SEADAS-SVES-CVS-DCAD,Divisão De Cadastro E Informação Covisa
+SEMUS-SEADAS-SVES-CVS-DCIAS,Divisão De Controle De Infecções Relacionadas A Assistência A Saúde
+SEMUS-SEADAS-SVES-CVS-DENGS,Divisão De Engenharia Sanitária
+SEMUS-SEADAS-SVES-CVS-DFS,Divisão De Fiscalização Sanitária
+SEMUS-SEADAS-SVES-CVS-DPIS,Divisão De Produtos De Interesse A Saúde
+SEMUS-SEADAS-SVES-CVS-DSDP,Divisão De Segurança Do Paciente
+SEMUS-SEADAS-SVES-CVS-DSIS,Divisão De Serviços De Interesse A Saúde
+SEMUS-SEADAS-SVES-CVS-NAED,Núcleo De Ações Educativas
+SEMUS-SEADAS-SVES-CVS-SAMIS,Sala De Análise E Monitoramento Das Informações E Indicadores De Saúde
+SEMUS-SEADAS-SVES-CVS-SISG,Sistema De Gestão De Qualidade
+SEMUS-SEADAS-SVES-CVS-TRANS,Vigilância Transporte
+SEMUS-SEADAS-SVES-CVS-VEPI,Divisão De Vigilância Epidemiológica Hospitalar
+SEMUS-SEADAS-SVES-CVS-VEPI-ARB,Programa Municipal De Controle Das Arboviroses
+SEMUS-SEADAS-SVES-CVS-VEPI-CRO,Vigilância Transporte Das Doenças Crônicas Não-Transmissíveis
+SEMUS-SEADAS-SVES-CVS-VEPI-DNT,Divisão De Doenças E Agravos Não Transmissíveis
+SEMUS-SEADAS-SVES-CVS-VEPI-DT,Divisão De Doenças E Agravos Transmissíveis
+SEMUS-SEADAS-SVES-CVS-VEPI-END,Programa Municipal De Controle Das Endemias
+SEMUS-SEADAS-SVES-CVS-VEPI-EXA,"Vigilância De Doenças Exantemáticas, Poliomielite, Pfa"
+SEMUS-SEADAS-SVES-CVS-VEPI-HAN,Programa Municipal De Controle Da Hanseníase
+SEMUS-SEADAS-SVES-CVS-VEPI-IMN,"Vigilância De Doenças Imunopreveníveis, Aarh E Aap"
+SEMUS-SEADAS-SVES-CVS-VEPI-INF,Sala De Processamento De Informações Em Saúde
+SEMUS-SEADAS-SVES-CVS-VEPI-MAC,"Mdda, Dtha, Doença Priônica E Maculosa"
+SEMUS-SEADAS-SVES-CVS-VEPI-MLH,"Vigilância De Meningites, Leptospirose E Hantavirose"
+SEMUS-SEADAS-SVES-CVS-VEPI-OBI,"Vigilância De Óbitos Materno, Fetal, Infantil E Mif"
+SEMUS-SEADAS-SVES-CVS-VEPI-OCU,Vigilância Das Doenças Ocupacionais / Acidentes De Trabalho
+SEMUS-SEADAS-SVES-CVS-VEPI-PSC,"Vigilância De Pmcc Sg, Srag E Covid19"
+SEMUS-SEADAS-SVES-CVS-VEPI-PVT,Programa Vida No Trânsito
+SEMUS-SEADAS-SVES-CVS-VEPI-SIM,Divisão Sim/Sinasc
+SEMUS-SEADAS-SVES-CVS-VEPI-TOX,Vigilância De Toxoplasmose Gestacional E Congênita
+SEMUS-SEADAS-SVES-CVS-VEPI-TUB,Programa Municipal De Controle Da Tuberculose
+SEMUS-SEADAS-SVES-CVS-VEPI-VET,Programa Municipal De Controle Vetorial - Campo
+SEMUS-SEADAS-SVES-CVS-VEPI-VIA,Vigilância Das Violências Interpessoal E Autoprovocadas
+SEMUS-SEADAS-SVES-DICI,Divisão De Imunização E Controle De Imunobiológicos
+SEMUS-SEADAS-SVES-RH,Recursos Humanos Da Sves
+SEMUS-SEADAS-SVES-SAGE,Sala De Apoio À Gestão Estratégica
+SEMUS-SEADAS-SVES-SVES,Apoio À Superintendência Sves
+SEMUS-SEADAS-SVES-VIGIEPI,Coordenação De Vigilância Epidemiológica
+SEMUS-SIND,Sindicância Semus
+SEMUS-SUPEN,Superintendência De Engenharia E Manutenção
+SEMUS-SUPEN-CME,Coordenação De Manutenção De Equipamento
